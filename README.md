@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Igor
-- 👀 I’m interested in backend
+- 👀 I’m interested in Go backend
 - 🌱 I’m currently learning golang and etc 
 - 💞️ I’m looking to collaborate on BigTech
 - 📫 How to reach me: infernalland@vk.com
